@@ -26,4 +26,3 @@ const takeNumber = (bandName)=>{
 
 takeNumber("Galactic Scum");
 takeNumber("Underdogs");
-takeNumber("Living Zombies");
